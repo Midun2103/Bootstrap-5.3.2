@@ -3,7 +3,7 @@
 #   KELAS   = 22.TI.B1
 #   MATKUL  = PEMOGRAMAN WEB1
 
-! [GAMBAR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBootstrap_%2528front-end_framework%2529&psig=AOvVaw0ag6I36KB2bK-nFYZL25XF&ust=1699118306291000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCl2YqrqIIDFQAAAAAdAAAAABAE)
+![GAMBAR](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png)
 
 <!doctype html>
 <html lang="en">
